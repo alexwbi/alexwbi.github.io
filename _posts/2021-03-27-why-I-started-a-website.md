@@ -3,7 +3,7 @@ layout: post
 title: Why I started a website
 date: 2021-03-27
 description: Why I started a website
-tags: writing
+tags: Writing
 ---
 
 Maintaining a website does a few important things for my life right now:
