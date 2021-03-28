@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-accountability with sprints and latent thoughts
+title: 'Self-accountability: sprints and latent thoughts'
 date: 2021-03-28
 description: How to hold yourself accountable with short feedback cycles -- check-ins, sprints, and tracking where your mind wanders
 tags: Productivity
@@ -15,4 +15,4 @@ I [started this website](https://alexwbi.github.io/2021/03/27/why-I-started-a-we
 
 My check-ins are on bi-weekly and monthly intervals, and this got me thinking, is it possible to have even shorter feedback loops? I think it is.
 - Sprints. If you're honest with yourself, it's easy to tell when you're sprinting vs not sprinting. Shane Parrish calls this [running vs jogging](https://twitter.com/ShaneAParrish/status/1373259646211911680). To be working fast enough, sprints are necessary. Obviously not all of the time or you'll burn out, but there has to be some amount of it.
-- Where does your mind wander? A good sign that you're moving fast enough is when your mind will wander to what you're working on when you're not working. This might not be healthy if overdone, but if your mind isn't wandering to the latest problem you're tackling at all, it's a sign you're not focused enough on it.
+- Where does your mind wander? A good sign that you're moving fast enough is when your mind wanders to the latest problem you're tackling when you're not working. This is _not_ healthy if overdone, but if it's not happening at all, it's a sign you're not focused enough on it.
