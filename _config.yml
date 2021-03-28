@@ -21,7 +21,7 @@
 title: Alex Bi
 email: alexwbi95@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Batteries, climate tech, and startups
+  Climate tech, startups, and batteries
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexwbi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexwbi23
