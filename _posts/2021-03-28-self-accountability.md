@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Self-accountability: sprints and tracking where your mind wanders'
+title: 'Self-accountability: sprints and tracking your thoughts'
 date: 2021-03-28
 description: How to hold yourself accountable with short feedback cycles -- check-ins, sprints, and tracking where your mind wanders
 tags: Productivity
