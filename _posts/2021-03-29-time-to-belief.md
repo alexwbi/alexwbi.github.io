@@ -9,9 +9,9 @@ One of my favorite books ever is [The Dip](https://www.goodreads.com/book/show/3
 
 Setting up my website reminded me of the good times when I was building [shengji.io](https://shengji.io/lobby) this time last year. I felt the same mental strain of reading though Github Pages documentation, debating among different ways of hosting a website, copying and pasting error messages into Google, and the like.
 
-However, the process was much shorter this time, and I realized that similar to the idea of the Dip, every project or undertaking has a ballpark range of how long it takes before you start to see light at the end of the tunnel.
+However, the process was much shorter this time, and I realized that similar to the idea of the Dip, **every project or undertaking has a ballpark range of how long it takes before you start to see light at the end of the tunnel.**
 
-Life before this point is pretty grim, and you're not sure if things will work out. After the inflection point, there's still a lot of work to be done, but success feels inevitable and it's only a matter of time before you get there. For lack of a better word, I'll call it "time-to-belief." Awful, but hopefully it gets the point across.
+Life before this point is pretty grim, and you're not sure if things will work out. After the inflection point, there's still a lot of work to be done, but success feels inevitable and it's only a matter of time before you get there. For lack of a better word, I'll call it **"time-to-belief."** Awful, but hopefully it gets the point across.
 
 This got me thinking, what are some examples I've come across so far?
 - Setting up this website - 2-3 hours
