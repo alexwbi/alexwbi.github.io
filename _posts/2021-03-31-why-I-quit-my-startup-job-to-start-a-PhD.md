@@ -11,7 +11,7 @@ Here’s my thought process, as well as some early takeaways on grad school.
 
 Note: I first wrote this on 9/13/2020 and promptly procrastinated putting it up for >6 months. Everything in this post reflects my thinking and mindset from back then, although not much has changed.
 
-# PhD = one of many options
+## PhD = one of many options
 I stumbled upon grad school. I never set out to get a PhD, and I didn’t go through college preparing for grad school.
 
 When family and friends asked me about grad school, I always gave them a vague answer, “maybe someday.” After I took a job in tech, going back to school became even less likely.
@@ -20,7 +20,7 @@ Some people target a PhD early on in college. This makes sense in some cases -- 
 
 Besides grad school, I looked at many other paths: startups, VC, and tech. Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
 
-# A PhD is a stepping stone
+## A PhD is a stepping stone
 In hindsight, it was helpful to evaluate a PhD next to other options. It put grad school in perspective.
 
 It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset.<sup>1</sup>
@@ -33,7 +33,7 @@ And that’s the mindset I adopted. I saw grad school as a stepping stone, a sma
 
 My long-term goal is to start a company in cleantech.<sup>2</sup> Given this, a PhD is the perfect incubation environment. A place to drill down into an area, meet like-minded people, and iterate on ideas.
 
-# PhD = accountability
+## PhD = accountability
 This may come as a surprise.
 
 When I read grad student horror stories online, a PhD often sounds like the exact opposite of accountability:
@@ -47,7 +47,7 @@ But that's not the right way to do grad school, and that's not what I'm talking 
 
 When done right, grad school is a way to _maximize_ accountability. Here's what I mean.
 
-# Ways to maximize accountability: founder, investor, or...grad student?
+## Ways to maximize accountability: founder, investor, or...grad student?
 One of my favorite thinkers, Naval Ravikant, says we live in an age of [infinite leverage](https://twitter.com/naval/status/1002105652792066048). Technology and the internet have reduced the marginal cost of creating and sharing knowledge to near zero.
 
 According to Naval, in a world of infinite leverage, you want to maximize personal accountability, which by extension maximizes your upside.
@@ -64,7 +64,7 @@ Adam Marcus sums it up well: “_You’re in charge...Your advisors are smart co
 
 A trusted mentor once told me, getting a PhD the right way is trading money for operational freedom.<sup>3</sup> After having been on both sides, I'll take freedom and accountability any day.
 
-# Unstructured time
+## Unstructured time
 There is a _lot_ of unstructured time in grad school. Even during the first semester, when there’s an emphasis on classes, I’ve been surprised at how much free time there is.
 
 I’m taking 4 classes, which is more than I’ll take in any other semester, and it’s still only 12 hours a week.
@@ -73,7 +73,7 @@ Free time opens up exciting possibilities such as crafting the ideal [maker vs m
 
 On the other hand, this level of freedom is intimidating, and I’m still getting used to it. An empty calendar is easy to waste. The upside is there, but it’s not guaranteed, which leads me to my next point.
 
-# Risk vs. reward
+## Risk vs. reward
 I’ve covered the good aspects, but leaving a job to get a PhD comes with real risks. Unlike a cushy job in industry, getting a PhD sucks in many ways:
 - _It's long_: 4-6 years, if not more. You can quit a job anytime (in the US at least). If you quit a PhD part way through, you might not have anything to show for it.
 - _It's stressful and hard_: smart people have told me it's the hardest thing they've done.
@@ -84,7 +84,7 @@ Leaving industry to pursue a PhD is doubling down on both risk and reward. I did
 
 Similar to the unstructured time, the upside is there but it’s far from guaranteed.
 
-# One more word on risk
+## One more word on risk
 The best advice I’ve read about risk is legendary VC Marc Andreessen’s [guide to career planning](https://pmarchive.com/guide_to_career_planning_part1.html).
 
 In short, risks are fine. There’s no opportunity without risk. But be honest with yourself about the risks, and walk in with eyes wide open.
