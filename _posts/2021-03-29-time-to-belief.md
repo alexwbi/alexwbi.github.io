@@ -3,7 +3,7 @@ layout: post
 title: '"Time-to-belief," the Dip, and pushing through long projects'
 date: 2021-03-29
 description: How to push through the Dip during long projects. Also, "time-to-belief" varies by project.
-tags: The Dip
+tags: [The Dip]
 ---
 One of my favorite books ever is [The Dip](https://www.goodreads.com/book/show/324748.The_Dip) by Seth Godin. It's a tiny book with the simple message that everything worth doing has a "Dip" (or multiple dips) along the way, and to succeed, you have to overcome and power through the dip.
 
