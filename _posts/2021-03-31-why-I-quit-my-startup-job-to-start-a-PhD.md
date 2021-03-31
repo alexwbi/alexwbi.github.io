@@ -9,7 +9,7 @@ I worked as a data scientist at a [tech startup](http://klaviyo.com/) for two ye
 
 Here’s my thought process, as well as some early takeaways on grad school.
 
-Note: I first wrote this on 9/13/2020 and promptly procrastinated putting it up for >6 months. Everything in this post reflects my thinking and mindset from back then, although very little has changed.
+Note: I first wrote this on 9/13/2020 and promptly procrastinated putting it up for >6 months. Everything in this post reflects my thinking and mindset from back then, although not much has changed.
 
 # PhD = one of many options
 I stumbled upon grad school. I never set out to get a PhD, and I didn’t go through college preparing for grad school.
@@ -23,7 +23,7 @@ Besides grad school, I looked at many other paths: startups, VC, and tech. Getti
 # A PhD is a stepping stone
 In hindsight, it was helpful to evaluate a PhD next to other options. It put grad school in perspective.
 
-It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset. <sup>1</sup>
+It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset.<sup>1</sup>
 
 The PhD shouldn’t be the sole focus of your life. Your dissertation doesn’t have to be (and likely will not be) the crown jewel of your career.
 
@@ -31,7 +31,7 @@ It’s better to view a PhD as a job. A challenging one where you’ll have to w
 
 And that’s the mindset I adopted. I saw grad school as a stepping stone, a small piece of a longer journey.
 
-My long-term goal is to start a company in cleantech (2021/3/31 update: cleantech has entered the mainstream much more in the past 6 months, and the recommended term is now [climate tech](https://climatetechvc.substack.com/p/-from-cleantech-to-climate-tech)). Given this, a PhD is the perfect incubation environment. A place to drill down into an area, meet like-minded people, and iterate on ideas.
+My long-term goal is to start a company in cleantech.<sup>2</sup> Given this, a PhD is the perfect incubation environment. A place to drill down into an area, meet like-minded people, and iterate on ideas.
 
 # PhD = accountability
 This may come as a surprise.
@@ -45,7 +45,7 @@ I'm generalizing here, but the point stands. There are many ways to avoid accoun
 
 But that's not the right way to do grad school, and that's not what I'm talking about here.
 
-When done right, grad school is a way to __maximize__ accountability. Here's what I mean.
+When done right, grad school is a way to _maximize_ accountability. Here's what I mean.
 
 # Ways to maximize accountability: founder, investor, or...grad student?
 One of my favorite thinkers, Naval Ravikant, says we live in an age of [infinite leverage](https://twitter.com/naval/status/1002105652792066048). Technology and the internet have reduced the marginal cost of creating and sharing knowledge to near zero.
@@ -60,25 +60,25 @@ Why? **Because if you do a PhD for the right reasons and if you find the right a
 
 This is not always true, depending on your research group and funding situation. But in the right environment, it’s true to an extent that’s not possible in industry.
 
-Adam Marcus sums it up well: “__You’re in charge...Your advisors are smart collaborators with lots of experience, but they aren't your boss.__” - [The N=1 guide to grad school](http://marcua.net/writing/gradschool-guide/)
+Adam Marcus sums it up well: “_You’re in charge...Your advisors are smart collaborators with lots of experience, but they aren't your boss._” - [The N=1 guide to grad school](http://marcua.net/writing/gradschool-guide/)
 
-A trusted mentor once told me, getting a PhD the right way is trading money for operational freedom^1. After having been on both sides, I'll take freedom and accountability any day.
+A trusted mentor once told me, getting a PhD the right way is trading money for operational freedom.<sup>3</sup> After having been on both sides, I'll take freedom and accountability any day.
 
 # Unstructured time
-There is a __lot__ of unstructured time in grad school. Even during the first semester, when there’s an emphasis on classes, I’ve been surprised at how much free time and how little structure there is.
+There is a _lot_ of unstructured time in grad school. Even during the first semester, when there’s an emphasis on classes, I’ve been surprised at how much free time there is.
 
-I’m taking 4 classes, which is more than I’ll take in any other semester, and it’s still 12 hours a week.
+I’m taking 4 classes, which is more than I’ll take in any other semester, and it’s still only 12 hours a week.
 
-Free time opens up exciting possibilities such as crafting the ideal [maker vs manager schedule](http://www.paulgraham.com/makersschedule.html). A data scientist at a startup, faced with deadlines and meetings and competing priorities, can only dream about a calendar with such large chunks of open time.
+Free time opens up exciting possibilities such as crafting the ideal [maker vs manager schedule](http://www.paulgraham.com/makersschedule.html). In contrast, working at a startup means deadlines, meetings, and competing priorities, and one can only dream of a calendar with such large chunks of open time.
 
-On the other hand, this level of freedom is intimidating, and I’m still getting used to it. An empty calendar is easy to waste. The upside is there, but it’s not guaranteed. Which leads me to my next point.
+On the other hand, this level of freedom is intimidating, and I’m still getting used to it. An empty calendar is easy to waste. The upside is there, but it’s not guaranteed, which leads me to my next point.
 
-# Risk and Reward
+# Risk vs. reward
 I’ve covered the good aspects, but leaving a job to get a PhD comes with real risks. Unlike a cushy job in industry, getting a PhD sucks in many ways:
-- __It's long__: 4-6 years, if not more. You can quit a job anytime (in the US at least). If you quit a PhD part way through, you might not have anything to show for it.
-- __It's stressful and hard__: smart people have told me it's the hardest thing they've done.
-- __It's an emotional roller-coaster__: self-doubt and imposter syndrome are common, as well as long periods of questioning whether you're making any progress.
-- __It’s a large pay cut compared to working in industry__: Especially if your alternative is working in tech, the monetary opportunity cost is huge.
+- _It's long_: 4-6 years, if not more. You can quit a job anytime (in the US at least). If you quit a PhD part way through, you might not have anything to show for it.
+- _It's stressful and hard_: smart people have told me it's the hardest thing they've done.
+- _It's an emotional roller-coaster_: self-doubt and imposter syndrome are common, as well as long periods of questioning whether you're making any progress.
+- _It’s a large pay cut compared to working in industry_: Especially if your alternative is working in tech, the monetary opportunity cost is huge.
 
 Leaving industry to pursue a PhD is doubling down on both risk and reward. I did it to take a bet on myself. For someone who wants to start a company, grad school in ChemE is perfect for creative freedom: a place to meet people and bounce ideas.
 
@@ -91,14 +91,15 @@ In short, risks are fine. There’s no opportunity without risk. But be honest w
 
 At the risk of patting myself on the back, I’ve heard the best grad students are the ones who work first and then go back to school.
 
-I didn’t understand this at first. Wouldn’t they be more rusty? Forget how to solve a differential equation? Feel fidgety sitting in class? (2021/3/31 update: after two semesters, I can confirm these are also true)
+I didn’t understand this at first. Wouldn’t they be more rusty? Forget how to solve a differential equation? Feel fidgety sitting in class? (2021/3/31 update: after two semesters, I can confirm these are also true.)
 
 Now I know. None of this stuff matters. It’s all about opportunity cost and risk.
 
-**The best grad students are those who have worked first because they’re giving up the most.**
+**The best grad students are those who left an industry job (especially if they liked the job!) because they’re giving up the most.**
 
-The opportunity cost of lost income and the inertia of staying in a steady, well-paying job are powerful filters. To yank yourself out of that and jump into 5+ years of volatility and uncertainty in grad school, you have to really want it. Hopefully that puts me on the right side of Andreessen’s advice...time will tell!
+The opportunity cost of lost income and the inertia of staying in a steady, well-paying job are powerful filters. To yank yourself out of that and jump into 5+ years of volatility and uncertainty in grad school, you have to really want it. Hopefully that puts me on the right side of Andreessen’s advice...time will tell.
 
-Notes
+### Notes
 1. The first two links may disappear at any time, and the author, [Philip Guo](https://pg.ucsd.edu/), doesn't recommend sharing or linking them. I'm linking them anyways, because they are too good to not share. Sorry Professor Guo!
-2. This begs the question, what’s a good reason to do a PhD? There are many legitimate reasons (and even more bad reasons!) that are covered extensively in wonderful blogs and Reddit posts, so I won't go into detail here.
+2. 2021/3/31 update: cleantech has entered the mainstream much more in the past 6 months, and the recommended term is now [climate tech](https://climatetechvc.substack.com/p/-from-cleantech-to-climate-tech).
+3. This begs the question, what’s a good reason to do a PhD? There are many legitimate reasons (and even more bad reasons!) that are covered extensively in wonderful blogs and Reddit posts, so I won't go into detail here.
