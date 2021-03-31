@@ -18,12 +18,12 @@ When family and friends asked me about grad school, I always gave them a vague a
 
 Some people target a PhD early on in college. This makes sense in some cases -- it’s a no brainer if you want to become a professor or if you want a job that requires a PhD (government lab, leading a research team, etc).
 
-Besides grad school, I looked at many other paths: startups, VC, and tech. Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
+In my case, my long-term goal is to start a company in cleantech.<sup>1</sup> Besides grad school, I looked at many other paths: startups, VC, and tech. Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
 
 ## A PhD is a stepping stone
 In hindsight, it was helpful to evaluate a PhD next to other options. It put grad school in perspective.
 
-It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset.<sup>1</sup>
+It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset.<sup>2</sup>
 
 The PhD shouldn’t be the sole focus of your life. Your dissertation doesn’t have to be (and likely will not be) the crown jewel of your career.
 
@@ -31,7 +31,7 @@ It’s better to view a PhD as a job. A challenging one where you’ll have to w
 
 And that’s the mindset I adopted. I saw grad school as a stepping stone, a small piece of a longer journey.
 
-My long-term goal is to start a company in cleantech.<sup>2</sup> Given this, a PhD is the perfect incubation environment. A place to drill down into an area, meet like-minded people, and iterate on ideas.
+Given my goal of starting a cleantech company, a PhD is the perfect incubation environment. A place to drill down into an area, meet like-minded people, and iterate on ideas.
 
 ## PhD = accountability
 This may come as a surprise.
@@ -75,7 +75,7 @@ On the other hand, this level of freedom is intimidating, and I’m still gettin
 
 ## Risk vs. reward
 I’ve covered the good aspects, but leaving a job to get a PhD comes with real risks. Unlike a cushy job in industry, getting a PhD sucks in many ways:
-- _It's long_: 4-6 years, if not more. You can quit a job anytime (in the US at least). If you quit a PhD part way through, you might not have anything to show for it.
+- _It's long_: 4-6 years, if not more. You can quit a job anytime (in the US at least). If you quit a PhD part way through, you might not have anything to show for it (although some programs allow you to get a masters degree along the way).
 - _It's stressful and hard_: smart people have told me it's the hardest thing they've done.
 - _It's an emotional roller-coaster_: self-doubt and imposter syndrome are common, as well as long periods of questioning whether you're making any progress.
 - _It’s a large pay cut compared to working in industry_: Especially if your alternative is working in tech, the monetary opportunity cost is huge.
@@ -100,6 +100,6 @@ Now I know. None of this stuff matters. It’s all about opportunity cost and ri
 The opportunity cost of lost income and the inertia of staying in a steady, well-paying job are powerful filters. To yank yourself out of that and jump into 5+ years of volatility and uncertainty in grad school, you have to really want it. Hopefully that puts me on the right side of Andreessen’s advice...time will tell.
 
 ### Notes
-1. The first two links may disappear at any time, and the author, [Philip Guo](https://pg.ucsd.edu/), doesn't recommend sharing or linking them. I'm linking them anyways, because they are too good to not share. Sorry Professor Guo!
-2. 2021/3/31 update: cleantech has entered the mainstream much more in the past 6 months, and the recommended term is now [climate tech](https://climatetechvc.substack.com/p/-from-cleantech-to-climate-tech).
+1. 2021/3/31 update: cleantech has entered the mainstream much more in the past 6 months, and the recommended term is now [climate tech](https://climatetechvc.substack.com/p/-from-cleantech-to-climate-tech).
+2. The first two links may disappear at any time, and the author, [Philip Guo](https://pg.ucsd.edu/), doesn't recommend sharing or linking them. I'm linking them anyways, because they are too good to not share. Sorry Professor Guo!
 3. This begs the question, what’s a good reason to do a PhD? There are many legitimate reasons (and even more bad reasons!) that are covered extensively in wonderful blogs and Reddit posts, so I won't go into detail here.
