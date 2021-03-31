@@ -18,7 +18,9 @@ When family and friends asked me about grad school, I always gave them a vague a
 
 Some people target a PhD early on in college. This makes sense in some cases -- it’s a no brainer if you want to become a professor or if you want a job that requires a PhD (government lab, leading a research team, etc).
 
-In my case, my long-term goal is to start a company in cleantech.<sup>1</sup> Besides grad school, I looked at many other paths: startups, VC, and tech. Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
+In my case, my long-term goal is to start a company in cleantech.<sup>1</sup> Besides grad school, I looked at many other paths: startups, VC, and tech.
+
+Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
 
 ## A PhD is a stepping stone
 In hindsight, it was helpful to evaluate a PhD next to other options. It put grad school in perspective.
