@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The reluctant grad student: why I quit my startup job to start a PhD
+title: 'The reluctant grad student: why I quit my startup job to start a PhD'
 date: 2021-03-31
 description: My reflections on why I quit my startup job, and how I found my way to grad school and a PhD program.
 tags: [Grad school, Opportunity cost, Accountability, Risk, Careers]
