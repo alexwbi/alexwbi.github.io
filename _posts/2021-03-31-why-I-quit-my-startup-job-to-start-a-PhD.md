@@ -9,7 +9,7 @@ I worked as a data scientist at a [tech startup](http://klaviyo.com/) for two ye
 
 Here’s my thought process, as well as some early takeaways on grad school.
 
-NOTE: I first wrote this on 9/13/2020 and promptly procrastinated putting it up for >6 months. Everything I wrote here reflects my thinking and mindset from back then.
+Note: I first wrote this on 9/13/2020 and promptly procrastinated putting it up for >6 months. Everything in this post reflects my thinking and mindset from back then, although very little has changed.
 
 # PhD = one of many options
 I stumbled upon grad school. I never set out to get a PhD, and I didn’t go through college preparing for grad school.
@@ -18,12 +18,12 @@ When family and friends asked me about grad school, I always gave them a vague a
 
 Some people target a PhD early on in college. This makes sense in some cases -- it’s a no brainer if you want to become a professor or if you want a job that requires a PhD (government lab, leading a research team, etc).
 
-In addition to grad school, I looked at many other paths: startups, VC, and tech. Getting a PhD was never the sole focus for me. I realized it was the best path from reading, reflecting, and talking to people, but I didn’t know this when I was starting out.
+Besides grad school, I looked at many other paths: startups, VC, and tech. Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
 
 # A PhD is a stepping stone
 In hindsight, it was helpful to evaluate a PhD next to other options. It put grad school in perspective.
 
-It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset. (Note the author of the first 2 links, [Philip Guo](https://pg.ucsd.edu/), says the links may disappear at any time, and doesn't recommend sharing or referencing his articles. They are too good and I couldn't help it. Sorry Professor Guo!)
+It’s easy to fall into the trap where grad school consumes your life. And from great advice I’ve read [here](https://pg.ucsd.edu/early-stage-PhD-advice.htm), [here](https://pg.ucsd.edu/PhD-interview-eugene-wu-keith-winstein.htm), and [here](http://marcua.net/writing/gradschool-guide/), that’s a dangerous mindset. <sup>1</sup>
 
 The PhD shouldn’t be the sole focus of your life. Your dissertation doesn’t have to be (and likely will not be) the crown jewel of your career.
 
@@ -100,4 +100,5 @@ Now I know. None of this stuff matters. It’s all about opportunity cost and ri
 The opportunity cost of lost income and the inertia of staying in a steady, well-paying job are powerful filters. To yank yourself out of that and jump into 5+ years of volatility and uncertainty in grad school, you have to really want it. Hopefully that puts me on the right side of Andreessen’s advice...time will tell!
 
 Notes
-1.  This begs the question, what’s a good reason to do a PhD? There are many legitimate reasons (and even more bad reasons!) that are covered extensively in wonderful blogs and Reddit posts, so I won't go into detail here.
+1. The first two links may disappear at any time, and the author, [Philip Guo](https://pg.ucsd.edu/), doesn't recommend sharing or linking them. I'm linking them anyways, because they are too good to not share. Sorry Professor Guo!
+2. This begs the question, what’s a good reason to do a PhD? There are many legitimate reasons (and even more bad reasons!) that are covered extensively in wonderful blogs and Reddit posts, so I won't go into detail here.
