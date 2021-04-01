@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-<img src="/img/a_mathiowetz_day3-314_cropped.jpg" width="225" style="float:left; margin-right:20px;">
+<img src="/img/alex_headshot.jpg" width="225" style="float:left; margin-right:20px;">
 
 I'm a chemical engineering PhD student at Columbia University, researching long-duration energy storage. I also started Columbia Cleantech Ventures, a group of over 100 students interested in cleantech, where I host fireside chats with founders and VCs.
 
