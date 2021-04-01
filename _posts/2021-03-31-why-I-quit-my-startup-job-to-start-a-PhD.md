@@ -18,7 +18,7 @@ When family and friends asked me about grad school, I always gave them a vague a
 
 Some people target a PhD early on in college. This makes sense in some cases -- it’s a no brainer if you want to become a professor or if you want a job that requires a PhD (government lab, leading a research team, etc).
 
-In my case, my long-term goal is to start a company in cleantech.<sup>1</sup> Besides grad school, I looked at many other paths: startups, VC, and tech.
+In my case, my long-term goal is to start a company in cleantech.[^1] Besides grad school, I looked at many other paths: startups, VC, and tech.
 
 Getting a PhD was never the sole focus for me. I realized it was the best path for me from reading, reflecting, and talking to people, but this wasn't obvious at first.
 
@@ -102,6 +102,6 @@ Now I know. None of this stuff matters. It’s all about opportunity cost and ri
 The opportunity cost of lost income and the inertia of staying in a steady, well-paying job are powerful filters. To yank yourself out of that and jump into 5+ years of volatility and uncertainty in grad school, you have to really want it. Hopefully that puts me on the right side of Andreessen’s advice...time will tell.
 
 ### Notes
-1. 2021/3/31 update: cleantech has entered the mainstream much more in the past 6 months, and the recommended term is now [climate tech](https://climatetechvc.substack.com/p/-from-cleantech-to-climate-tech).
+[^1]: 2021/3/31 update: cleantech has entered the mainstream much more in the past 6 months, and the recommended term is now [climate tech](https://climatetechvc.substack.com/p/-from-cleantech-to-climate-tech).
 2. The first two links may disappear at any time, and the author, [Philip Guo](https://pg.ucsd.edu/), doesn't recommend sharing or linking them. I'm linking them anyways, because they are too good to not share. Sorry Professor Guo!
 3. This begs the question, what’s a good reason to do a PhD? There are many legitimate reasons (and even more bad reasons!) that are covered extensively in wonderful blogs and Reddit posts, so I won't go into detail here.
