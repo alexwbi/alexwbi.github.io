@@ -5,7 +5,7 @@ date: 2021-03-28
 description: How to hold yourself accountable with short feedback cycles -- check-ins, sprints, and tracking where your mind wanders
 tags: Productivity
 ---
-I've been thinking a lot about self-accountability since the timelines in grad school are so long, and there are fewer intermediate checkpoints than, say, being a data scientist at a startup, where I had big checkpoints(OKRs and sprints), small checkpoints (daily standup), and social pressure (teammates; products and features to launch).
+I've been thinking a lot about self-accountability since the timelines in grad school are so long, and there are fewer intermediate checkpoints than, say, being a data scientist at a startup, where I had big checkpoints (OKRs and sprints), small checkpoints (daily standup), and social pressure (teammates; products and features to launch).
 
 I recreated this with personal quarterly OKRs, monthly goals that roll up into the quarterly OKRs, and daily to-do lists, but it's not quite the same. It's easy to convince myself that I can push myself enough without external drivers, but the reality is it's very hard to do.
 
