@@ -110,7 +110,9 @@ All players in the industry, and all decisions that are made, must take into acc
 #### **Waste Processors**
 When thinking about waste processors, it’s helpful to frame the topic with the EPA’s food diversion hierarchy:
 
-<img src="/img/food_waste_epa_recovery_hierarchy.jpg", width="600">
+<p align="center">
+  <img src="/img/food_waste_epa_recovery_hierarchy.jpg" width="450">
+</p>
 
 In short, don’t burn or landfill your waste if possible.
 
