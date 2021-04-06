@@ -64,9 +64,7 @@ We mainly hear about methane from agriculture, livestock, and the oil and gas in
 Note that this problem applies not only to food waste, but other types of organic waste as well, such as yard trimmings, brush, animal bedding, and a few other miscellaneous categories.
 
 ## State of the Market
-The food waste industry is a complex system that is highly fragmented, localized, and filled with bespoke contracts.
-
-The industry consists of a few different parties: food waste producers, haulers, waste processors, and regulators.
+The food waste industry is a complex system that is highly fragmented, localized, and filled with bespoke contracts. The industry consists of a few different parties: food waste producers, haulers, waste processors, and regulators.
 
 #### **Waste Producers**
 We started out by mapping out the landscape for waste producers. These are the businesses we're most familiar with. A few examples include:
@@ -112,7 +110,9 @@ All players in the industry, and all decisions that are made, must take into acc
 #### **Waste Processors**
 When thinking about waste processors, it’s helpful to frame the topic with the EPA’s food diversion hierarchy:
 
-<img src="/img/food_waste_epa_recovery_hierarchy.jpg" figcaption="In short, don’t burn or landfill your waste if possible.">
+<img src="/img/food_waste_epa_recovery_hierarchy.jpg", width="600">
+
+In short, don’t burn or landfill your waste if possible.
 
 From an ethical standpoint, the best way to reduce food waste is to produce less food, then to divert unused food to people. These are admirable goals, but source reduction and food diversion are not always possible, and animal feed is smaller in scale, so we set our sights on understanding the next two categories: industrial uses (mainly anaerobic digestion) and composting.
 
@@ -192,5 +192,5 @@ Food waste as a physical product is a diffuse resource that has a “shelf life�
 
 I believe there’s opportunity for decentralized solutions to reduce cost, but any prospective solutions must keep in the volume of the waste stream and the degree of contamination. Thus, solutions that address large point sources (e.g. distribution centers, college dining halls) are more economical and easier to execute than distributed sources (e.g. single family homes).
 
-### Notes
+## Notes
 [^1]: From our research, people generally exclude food waste from farms because any crops that can’t be sold are typically not harvested or composted on-site. It’s hard to find a cheaper alternative to doing nothing!
