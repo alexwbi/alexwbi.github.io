@@ -68,7 +68,7 @@ The food waste industry is a complex system that is highly fragmented, localized
 
 The industry consists of a few different parties: food waste producers, haulers, waste processors, and regulators.
 
-### **Waste Producers**
+#### **Waste Producers**
 We started out by mapping out the landscape for waste producers. These are the businesses we're most familiar with. A few examples include:
  - Dining halls--at universities, hospitals, etc.
  - Grocery stores
@@ -96,7 +96,7 @@ Restaurants produce more food waste, but they are low-margin businesses. They ge
 
 Ultimately, we decided to focus our efforts on grocery stories and MUSH institutions (municipalities, universities, schools and hospitals).
 
-### **Haulers**
+#### **Haulers**
 Haulers play a central role in this ecosystem, and they have a lot of power. The main haulers are Republic Services and Waste Management, but there are many other smaller businesses that are more localized. Besides the major players, hauling is a fragmented industry, and from our initial conversations, we suspect there’s a long tail distribution of haulers.
 
 Bigger haulers generally also own and operate waste processing facilities, while smaller haulers will partner with waste processing facilities and only handle the transportation.
@@ -112,7 +112,7 @@ All players in the industry, and all decisions that are made, must take into acc
 #### **Waste Processors**
 When thinking about waste processors, it’s helpful to frame the topic with the EPA’s food diversion hierarchy:
 
-<img src="/img/food_waste_epa_hierarchy.jpg" figcaption="In short, don’t burn or landfill your waste if possible.">
+<img src="/img/food_waste_epa_recovery_hierarchy.jpg" figcaption="In short, don’t burn or landfill your waste if possible.">
 
 From an ethical standpoint, the best way to reduce food waste is to produce less food, then to divert unused food to people. These are admirable goals, but source reduction and food diversion are not always possible, and animal feed is smaller in scale, so we set our sights on understanding the next two categories: industrial uses (mainly anaerobic digestion) and composting.
 
@@ -137,48 +137,48 @@ From a GHG standpoint, the goal is to minimize organic waste that ends up in a l
 ## Why Now?
 Everything I’ve described so far has been the case for a while. So why now? The answer is California. Specifically, the main drivers are Senate Bill (SB) 1383, the low carbon fuel standards (LCFS), and increasing tipping fees.
 
-#### SB-1383
+#### **SB-1383**
 SB-1383 is a new piece of legislation slated to go into effect in January 2022. It mandates that jurisdictions and municipalities must have a plan in place to divert organic waste from landfills.
 
 Food waste is a legacy industry that’s fragmented and obscure, with a lot of bespoke contracts and partnerships. From our market research and customer interviews, we believe SB-1383 will be the catalyst that pushes gears into motion.
 
 I’ll go into more detail in the _Opportunities_ section, but for startups interested in tackling this space, SB-1383 provides the perfect timing to create a more transparent free market in the waste industry.
 
-#### Low Carbon Fuel Standards
+#### **Low Carbon Fuel Standards**
 LCFS credits are given to projects that generate renewable natural gas. This mainly applies to AD facilities, and it adds significant revenue beyond market prices for gas.
 
-#### Increasing Tipping Fees
+#### **Increasing Tipping Fees**
 Along with Alaska and the Pacific Northwest, California has among the highest tipping fees in the country, and they’re increasing. This is largely driven by supply and demand — the amount of land area is fixed, so new landfill capacity will increasingly be built in less accessible, less desirable locations, driving up costs.
 
 ## Challenges
 I touched upon some of these earlier, but here’s a list of challenges with food waste, as well as the broader industry dynamics:
-- Cost of moving atoms — Food waste has inherent value, but the cost of transporting it often exceeds the value
-- Localized — Because it’s costly to transport food waste, the industry is very localized. Haulers want to minimize the distance between the waste producer and waste processor, which limits the number of options.
-- Distributed resource — Food waste is a diffuse resource, which make sit costly to collect, transport, and sort
-- Contamination — A pure organic waste stream is valuable for composting and AD facilities, but most waste streams have some degree of contamination that can cause trouble for these facilities. There are material recovery facilities, which can sort contaminated waste streams, but these are costly.
-- Time-sensitive—Food waste has a shelf life. If it’s not collected for too long, there may be odor, leakage, and rodents, which result in headaches and/or fines for waste producers.
-- Out of sight, out of mind — Waste producers such as restaurants and grocery stores do not want to deal with food waste. It’s not part of their core business, and they would like nothing better than for someone else to handle it for them.
-- Fragmented industry — Aside [from](https://www.rubicon.com/) [a](https://www.emerson.com/en-us/commercial-residential/grind2energy-food-waste-solution) [few](http://www.thewastetransformers.com/) [examples](http://somatcompany.com/), the waste industry has not seen a large degree of innovation. It’s a relatively relationship-based industry, with bespoke contracts and low degree of standardization. We often heard drastically different things from our customer discovery calls from one day to another.
+- **Cost of moving atoms** — Food waste has inherent value, but the cost of transporting it often exceeds the value
+- **Localized** — Because it’s costly to transport food waste, the industry is very localized. Haulers want to minimize the distance between the waste producer and waste processor, which limits the number of options.
+- **Distributed resource** — Food waste is a diffuse resource, which make sit costly to collect, transport, and sort
+- **Contamination** — A pure organic waste stream is valuable for composting and AD facilities, but most waste streams have some degree of contamination that can cause trouble for these facilities. There are material recovery facilities, which can sort contaminated waste streams, but these are costly.
+- **Time-sensitive** — Food waste has a shelf life. If it’s not collected for too long, there may be odor, leakage, and rodents, which result in headaches and/or fines for waste producers.
+- **Out of sight, out of mind** — Waste producers such as restaurants and grocery stores do not want to deal with food waste. It’s not part of their core business, and they would like nothing better than for someone else to handle it for them.
+- **Fragmented industry** — Aside [from](https://www.rubicon.com/) [a](https://www.emerson.com/en-us/commercial-residential/grind2energy-food-waste-solution) [few](http://www.thewastetransformers.com/) [examples](http://somatcompany.com/), the waste industry has not seen a large degree of innovation. It’s a relatively relationship-based industry, with bespoke contracts and low degree of standardization. We often heard drastically different things from our customer discovery calls from one day to another.
 
 ## Opportunities
 That being said, I also believe that there is ample opportunity in this space. Here are a few areas I would look for potential newco opportunities. While they may not be the right ideas, as Paul Graham [said](http://www.paulgraham.com/growth.html), most fairly good ideas are adjacent to even better ones, so I hope this provides a useful starting point.
 
-#### Distributed solutions that can treat or process food waste at the source. 
+#### **Distributed solutions that can treat or process food waste at the source.**
 There are a few examples here, but the idea that we felt was most promising was to use devices to reduce the weight and volume of food waste on-site. Our key insight was that food waste is costly to transport, but we’re sitting on top of well-established infrastructure for liquid waste: the drainage system.
 
 Macerators are devices that pulverize food waste so that it can be sent down the drain. The challenge here is that this drastically increases total suspended solids (TSS) and chemical oxygen demand (COD) of the water, which may result in a surcharge from the local water treatment plant.
 
 Pulpers and extractors are devices similarly grind up food waste, but instead of sending it down the drain, they remove water from the waste stream. Overall, this can reduce the weight of food waste by 50–80%, which saves hauling fees for the waste producer.
 
-#### Marketplace for Food Recovery
+#### **Marketplace for Food Recovery**
 Through SB-1383, California set an ambitious goal of recovering 20+% of edible food (the exact definition of what can be recovered is still up in the air). Food recovery is localized and time-sensitive, and may benefit from the scale of a marketplace that matches supply and demand. [Food For All](https://foodforall.com/) is tackling this space, but has not achieved meaningful scale.
 
-#### Inventory Management and Analytics
+#### **Inventory Management and Analytics**
 One of my mentors has a [saying](https://evanm.website/2020/02/five-years-in-energy/) that when you’re trying to sell energy savings to consumers, you should focus on anything but the energy. Rather, focus on things people care about instead, such as comfort (Nest) or status (Tesla).
 
 The same idea may apply to food waste. Instead of focusing on the waste, follow the trail of revenue, which in the case of grocery stores, leads to inventory management and reducing wasted inventory. There are a few startups tackling this space, including [Afresh](https://www.afresh.com/) and [JAMIX](https://www.jamix.com/).
 
-#### Digitization / Compliance Reporting
+#### **Digitization / Compliance Reporting**
 The area I’m most intrigued by is the digitization of the waste industry. Similar to how Flexport developed a standard for freight forwarders to improve transactions and record-keeping, there’s an opportunity to streamline operations among waste producers, haulers, processors, and regulators.
 
 SB-1383 provides a promising catalyst, since new regulations will require long-standing contracts to be revisited and updated. Additionally, stricter rules will require more effort to be invested in compliance reporting, which is currently a manual and time-consuming process. To our knowledge, [Rubicon](https://www.rubicon.com/) is the company that’s most similar to this idea, but there aren’t any startups directly addressing this space.
@@ -192,5 +192,5 @@ Food waste as a physical product is a diffuse resource that has a “shelf life�
 
 I believe there’s opportunity for decentralized solutions to reduce cost, but any prospective solutions must keep in the volume of the waste stream and the degree of contamination. Thus, solutions that address large point sources (e.g. distribution centers, college dining halls) are more economical and easier to execute than distributed sources (e.g. single family homes).
 
-
+### Notes
 [^1]: From our research, people generally exclude food waste from farms because any crops that can’t be sold are typically not harvested or composted on-site. It’s hard to find a cheaper alternative to doing nothing!
