@@ -1,8 +1,8 @@
- ---
+---
 layout: post
-title: Food Waste: State of the Market, Challenges, and Opportunities
+title: 'Food Waste: State of the Market, Challenges, and Opportunities'
 date: 2021-04-06
-description: 
+description: Digging into the food waste industry - state of the market, challenges, existing startups, and opportunities.
 tags: [Food Waste, Market Landscape, Climate Tech, Startups]
 ---
 _A tale of energy density, a fragmented market, and the limitations of transporting matter._
