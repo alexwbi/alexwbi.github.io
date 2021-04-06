@@ -5,6 +5,9 @@ date: 2021-04-06
 description: Digging into the food waste industry - state of the market, challenges, existing startups, and opportunities.
 tags: [Food Waste, Market Landscape, Climate Tech, Startups]
 ---
+
+<img src="/img/food_waste_header.jpg">
+
 _A tale of energy density, a fragmented market, and the limitations of transporting matter._
 
 For the past few months, I’ve had the pleasure to dig into the food waste industry with an awesome team, under the guidance of [Dave Danielson](https://www.linkedin.com/in/ddanielson1) and [Joel Moxley](https://www.linkedin.com/in/joelmoxley).
@@ -48,6 +51,8 @@ In the world of _Harry Potter_, you can't make good food out of nothing. In our 
 
 ## America’s Food Waste Problem
 The problem with food waste boils down to one word: methane. When organic material breaks down under anaerobic conditions, which occurs in landfills, it generates methane, which is a greenhouse gas ~25x more potent than carbon dioxide.
+
+<img src="/img/food_waste_statistic.jpg">
 
 A few facts illustrate the magnitude of this problem:
 - 40% of the food waste in the US goes to waste
@@ -106,6 +111,8 @@ All players in the industry, and all decisions that are made, must take into acc
 
 #### Waste Processors
 When thinking about waste processors, it’s helpful to frame the topic with the EPA’s food diversion hierarchy:
+
+<img src="/img/food_waste_epa_hierarchy.jpg">
 
 In short, don’t burn or landfill your waste if possible.
 
