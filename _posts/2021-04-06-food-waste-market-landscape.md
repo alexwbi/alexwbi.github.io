@@ -68,7 +68,7 @@ The food waste industry is a complex system that is highly fragmented, localized
 
 The industry consists of a few different parties: food waste producers, haulers, waste processors, and regulators.
 
-#### **Waste Producers**
+### **Waste Producers**
 We started out by mapping out the landscape for waste producers. These are the businesses we're most familiar with. A few examples include:
  - Dining halls--at universities, hospitals, etc.
  - Grocery stores
@@ -87,8 +87,8 @@ Excluding farms, the share of food waste attributed to each producer category is
 We saw this list and naturally focused on the combined ~80% share from households and restaurants. However, we quickly realized these were also the hardest categories to tackle.
 
 To understand why, it’s helpful to think about the factors that determine the value of a food waste stream:
-- Amount of waste produced: A college dining hall that produces 5 tons/day at one location is a more attractive potential customer than a hundred single-family homes that produce the same amount of waste in aggregate. This goes back to the idea of energy density.
-- Contamination: The industry distinguishes between _pre-consumer_ and _post-consumer_ food waste, which is pretty much what it sounds like. Pre-consumer food waste, such as kitchen scraps, are generally lower contamination than post-consumer food waste, which is more likely to contain cutlery, napkins, and other non-organic waste. Contamination matters for certain types of waste processing facilities more than others — I’ll go into more detail in the next section.
+- **Amount of waste produced**: A college dining hall that produces 5 tons/day at one location is a more attractive potential customer than a hundred single-family homes that produce the same amount of waste in aggregate. This goes back to the idea of energy density.
+- **Contamination**: The industry distinguishes between _pre-consumer_ and _post-consumer_ food waste, which is pretty much what it sounds like. Pre-consumer food waste, such as kitchen scraps, are generally lower contamination than post-consumer food waste, which is more likely to contain cutlery, napkins, and other non-organic waste. Contamination matters for certain types of waste processing facilities more than others — I’ll go into more detail in the next section.
 
 Regrettably, out of all the food waste producer categories, household food waste has the lowest energy density and largest degree of contamination. We didn’t run a detailed techno-economic analysis, but I would bet that it’d be excruciatingly difficult to make the economics work here.
 
@@ -96,7 +96,7 @@ Restaurants produce more food waste, but they are low-margin businesses. They ge
 
 Ultimately, we decided to focus our efforts on grocery stories and MUSH institutions (municipalities, universities, schools and hospitals).
 
-### Haulers
+### **Haulers**
 Haulers play a central role in this ecosystem, and they have a lot of power. The main haulers are Republic Services and Waste Management, but there are many other smaller businesses that are more localized. Besides the major players, hauling is a fragmented industry, and from our initial conversations, we suspect there’s a long tail distribution of haulers.
 
 Bigger haulers generally also own and operate waste processing facilities, while smaller haulers will partner with waste processing facilities and only handle the transportation.
@@ -109,12 +109,10 @@ This was a shocking realization for us, but it reiterated that __the diffuse nat
 
 All players in the industry, and all decisions that are made, must take into account these realities, and if you’re going to think about food waste, you have to view the world through this lens. If it weren’t such a vexing methane problem, it would be quite an elegant marriage of free markets and physics.
 
-#### Waste Processors
+#### **Waste Processors**
 When thinking about waste processors, it’s helpful to frame the topic with the EPA’s food diversion hierarchy:
 
-<img src="/img/food_waste_epa_hierarchy.jpg">
-
-In short, don’t burn or landfill your waste if possible.
+<img src="/img/food_waste_epa_hierarchy.jpg" figcaption="In short, don’t burn or landfill your waste if possible.">
 
 From an ethical standpoint, the best way to reduce food waste is to produce less food, then to divert unused food to people. These are admirable goals, but source reduction and food diversion are not always possible, and animal feed is smaller in scale, so we set our sights on understanding the next two categories: industrial uses (mainly anaerobic digestion) and composting.
 
