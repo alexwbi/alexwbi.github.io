@@ -44,9 +44,9 @@ This brings us to the conundrum of food waste: **it has inherent value** —�
 
 As one of my mentors put it aptly, it costs more to move matter than heat or electrons. **This is the core challenge with food waste** — you can grind it up, dry it, divert it, or do any number of things with it, but at the end of the day, it’s expensive to move atoms.
 
-> **Hermione**: "_It’s impossible to make good food out of nothing! You can  Summon it if you know where it is, you can transform it, you can increase the quantity if you’ve already got some..._"
+> Hermione: "_It’s impossible to make good food out of nothing! You can  Summon it if you know where it is, you can transform it, you can increase the quantity if you’ve already got some..._"
 
-In the world of _Harry Potter_, you can't make good food out of nothing. In our world, you can't turn food waste into nothing.
+In the world of _Harry Potter_, you can't make good food out of nothing. Similarly, in our world, you can't turn food waste into nothing.
 
 
 ## America’s Food Waste Problem
@@ -68,7 +68,7 @@ The food waste industry is a complex system that is highly fragmented, localized
 
 The industry consists of a few different parties: food waste producers, haulers, waste processors, and regulators.
 
-#### Waste Producers
+#### **Waste Producers**
 We started out by mapping out the landscape for waste producers. These are the businesses we're most familiar with. A few examples include:
  - Dining halls--at universities, hospitals, etc.
  - Grocery stores
@@ -96,7 +96,7 @@ Restaurants produce more food waste, but they are low-margin businesses. They ge
 
 Ultimately, we decided to focus our efforts on grocery stories and MUSH institutions (municipalities, universities, schools and hospitals).
 
-#### Haulers
+### Haulers
 Haulers play a central role in this ecosystem, and they have a lot of power. The main haulers are Republic Services and Waste Management, but there are many other smaller businesses that are more localized. Besides the major players, hauling is a fragmented industry, and from our initial conversations, we suspect there’s a long tail distribution of haulers.
 
 Bigger haulers generally also own and operate waste processing facilities, while smaller haulers will partner with waste processing facilities and only handle the transportation.
