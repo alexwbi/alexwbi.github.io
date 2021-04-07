@@ -20,13 +20,19 @@ These days, as a grad student with competing priorities and longer timelines for
 
 This got me thinking, *when should you set up a process versus a goal with a deadline?*
 
-### Progress vs. maintenance
+### Progress vs. maintenance areas
 The answer is it depends whether the work falls within a prioritized area of your life. **In other words, is it an area of progress or an area of maintenance?**
 
-As a grad student, making progress with research is one of my main priorities. I'm trying to become an expert in this space. Not surprisingly, it's a progress area. For progress areas, you should **set outcome-oriented goals with deadlines** - e.g. I will complete the next chunk of research by Friday, or I will not sleep on Friday night (thank you Malte for the inspiration).
-
-On the other hand, when it comes to working out, I want to stay in shape but I'm not trying to be world-class. Maintenance is enough for me. For maintenance areas, it's better to **set up low-touch, low-friction, and automated processes**.
+An example is my workout routine. I want to stay in shape, but I'm not trying to be world-class. Maintenance is enough for me. For maintenance areas, it's better to **set up low-touch, low-friction, and automated processes**.
 
 I want to work out consistently, but I don't want to dedicate extra willpower to thinking about it. If I have a poor workout or even skip a workout once or twice, it's not the end of the world. I just want to be good enough, and *the process is there as a safety net* so I don't fall off the rails and skip workouts for a month.
+
+In contrast, as a grad student, making progress with research is one of my main priorities. I'm trying to become an expert in this space. Unsurprisingly, it's a progress area.
+
+For progress areas, you should **set outcome-oriented goals with deadlines** - e.g. I will complete the next chunk of research by Friday, or I will not sleep on Friday night (thank you Malte for the inspiration).
+
+This is important because it forces you to work intensely and efficiently. If you have a process of "spend 2 hours on research every day," you can bet the quality of work and output will be much lower than if you have a goal of "get XYZ results by Friday".
+
+Processes provide more wiggle room. It's easier to dawdle, meander, and spend time on things that aren't essential. Specific goals demand accountability and output. In a way, I'm just restating my earlier post about [self-accountability and working intensely](https://alexwbi.github.io/2021/03/28/self-accountability.html).
 
 Another way to put it is that processes are useful as a lower bound and a way to minimize downside. Outcome-oriented goals are useful for hitting the upper bound and capturing upside.
