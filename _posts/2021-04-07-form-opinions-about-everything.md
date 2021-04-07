@@ -16,4 +16,5 @@ This is similar to the idea of "strong opinions, weakly held," except I would ad
 
 Note that I only mean this to apply to areas where you want to dig deep and become an expert. In all other areas where you don't have an informed opinion, it's much better to say "I don't know" and ask good questions than to form an opinion for the sake of it.
 
+### Notes
 [^1]: Another memorable quote: the acronym WFIO – we're f*ked, it's over – which apparently happens multiple times during each startup journey.
