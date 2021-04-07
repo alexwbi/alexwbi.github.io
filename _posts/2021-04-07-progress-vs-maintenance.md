@@ -16,7 +16,9 @@ On the other hand, people like James Clear recommend avoiding goals, and focusin
 
 When I was working, I had a fixed schedule and life was more straightforward. My productivity stack worked well enough that I didn't have to think about it.
 
-These days, as a grad student with competing priorities and longer timelines for my work, I realized my system wasn't good enough. I had turned some streams of work into processes and I was making steady progress, but it wasn't fast enough. This got me thinking, *when should you set up a process versus a goal with a deadline?*
+These days, as a grad student with competing priorities and longer timelines for my work, I realized my system wasn't good enough. I had turned some streams of work into processes and I was making steady progress, but it wasn't fast enough.
+
+This got me thinking, *when should you set up a process versus a goal with a deadline?*
 
 ### Progress vs. maintenance
 The answer is it depends whether the work falls within a prioritized area of your life. **In other words, is it an area of progress or an area of maintenance?**
