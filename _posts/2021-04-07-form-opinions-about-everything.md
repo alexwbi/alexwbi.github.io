@@ -14,6 +14,6 @@ A mentor told me that an opinion is just a snapshot of "given what I know right 
 
 This is similar to the idea of "strong opinions, weakly held," except I would add that you should *form a lot of opinions, and try to disprove them and iterate as quickly as possible.*
 
-Note that I only mean this to apply to areas where you want to dig deep and become an expert. In all other areas where you don't have an informed opinion, it's much better to say "I don't know" than to form an opinion for the sake of it and talk about it loudly.
+Note that I only mean this to apply to areas where you want to dig deep and become an expert. In all other areas where you don't have an informed opinion, it's much better to say "I don't know" and ask good questions than to form an opinion for the sake of it.
 
 [^1]: Another memorable quote: the acronym WFIO – we're f*ked, it's over – which apparently happens multiple times during each startup journey.
