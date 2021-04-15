@@ -23,6 +23,6 @@ You have limited time and resources, and there's an opportunity cost to everythi
 
 Regarding ideation: most ideas are bad. The odds are you'll need to vet a lot of ideas before you find one worth committing to, so you need to move quickly to maximize throughput.
 
-People often talk about the importance of working smart, which seems like more clever thing to do, but moving fast is crucial. The world is governed by opportunity cost and tradeoffs. **Speed is our way of fighting back.**
+People often talk about the importance of working smart, which seems like the more clever thing to do, but moving fast is crucial. The world is governed by opportunity cost and tradeoffs. **Speed is our way of fighting back.**
 
 Note that this applies mainly to career. I'm all for slowing down and smelling the roses in one's personal life. In fact, I think the ability to *quickly and thoroughly* toggle from sprint mode to rest mode is important for recharging fully...and preparing your mind and body for the next sprint!
