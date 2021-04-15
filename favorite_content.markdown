@@ -21,5 +21,5 @@ Startups
 Life
 - The Dip - simple but powerful
 - Checklist Manifesto - same
-- Too many Wait But Why articles to remember
+- Too many _Wait But Why_ articles to remember
 - [Grand Theft Life](https://www.joincolossus.com/episodes/28283697/urban-grand-theft-life) - Tim Urban's podcast with Invest Like the Best. If you've played Grand Theft Auto, grand theft life is exactly what it sounds like.
