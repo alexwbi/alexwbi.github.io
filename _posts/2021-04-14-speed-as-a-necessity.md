@@ -2,7 +2,7 @@
 layout: post
 title: Speed as a necessity
 date: 2021-04-14
-description: "Speed as a habit" applied to life. Working smart is popular, but working hard is crucial.
+description: '"Speed as a habit" applied to life. Working smart is popular, but working hard is crucial.'
 tags: [Execution]
 ---
 One of my favorite articles is [Speed as a Habit](https://review.firstround.com/speed-as-a-habit) by Dave Girouard, the CEO of Upstart. Dave writes that just as software development is agile and products should be iterated quickly, companies should also move fast. I love the simplicity and clarity of thinking.
