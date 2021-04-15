@@ -17,9 +17,7 @@ A few highlights:
 
 When it comes to careers, I'd extend the motto to "speed as a necessity." If you value your time and your goals, and if you believe that you can make an impact, it's your responsibility to move fast.
 
-Life is governed by limited time and resources. There's an opportunity cost to everything you do, and you have to continually assess marginal value versus marginal cost.
-
-A few examples of this in my life:
+Life is governed by limited time and resources. There's an opportunity cost to everything you do, and you have to continually assess marginal value versus marginal cost. A few examples of this in my life:
 - When I'm running experiments, there are a dozen paths I can go down. What do I prioritize?
 - When vetting startup ideas, how can I get to the core issue or assumption as quickly as possible? This has been devilishly hard for me, and I don't have a good answer yet.
 
