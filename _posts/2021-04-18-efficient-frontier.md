@@ -17,7 +17,7 @@ So how do you know if the tradeoff is worth it? It varies by person and changes 
 ### Efficient frontier applied to life
 In finance, [modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory) provides a framework for how to put together an optimal portfolio.
 
-<img src="/img/efficient_frontier.png" width="450">
+<img src="/img/efficient_frontier.png">
 
 There are countless portfolios you can build, but only some will maximize return for a given level of risk. These are on the efficient frontier. All other portfolios are subpar because given the same amount of risk, you can increase your return; alternatively, given the same return, you can reduce your risk.
 
