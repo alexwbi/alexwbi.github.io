@@ -16,7 +16,9 @@ I read a great 2018 paper, [The Role of Firm Low-Carbon Electricity Resources in
 - Cheap enough long duration energy storage (on the order of days) could serve as a firm low-carbon resource. More research is needed.
 	- The way they modeled hypothetical long duration energy storage, it didn't play a big role in the energy mix.
 
-<img src="/img/firm_low_carbon_resources.jpg" width="450">
+<p align="center">
+  <img src="/img/food_waste_epa_recovery_hierarchy.jpg" width="450">
+</p>
  
 ### Thoughts and comments
 It's a breath of fresh air to read a nuanced and balanced take on this, rather than anti-nuclear sentiments or arguments about why we should use 100% wind and solar.
