@@ -16,21 +16,21 @@ I read a great 2018 paper, [The Role of Firm Low-Carbon Electricity Resources in
 - Cheap enough long duration energy storage (on the order of days) could serve as a firm low-carbon resource. More research is needed.
 	- The way they modeled hypothetical long duration energy storage, it didn't play a big role in the energy mix.
 
-https://ars.els-cdn.com/content/image/1-s2.0-S2542435118303866-gr1.jpg
+![Decarbonization is cheaper with firm low-carbon resources](https://ars.els-cdn.com/content/image/1-s2.0-S2542435118303866-gr1.jpg)
  
- ### Thoughts and comments
+### Thoughts and comments
 It's a breath of fresh air to read a nuanced and balanced take on this, rather than anti-nuclear sentiments or arguments about why we should use 100% wind and solar.
 
 That said, I can't help but feel like a lot of the findings were quite intuitive. The more we constrain out options, the more expensive things get. The stricter we set our emissions limits, the more expensive things get. The fact that the results are robust to varying levels of transmission is helpful though.
 
-#### The limitation of cost projections
+#### **The limitation of cost projections**
 My main qualm with this paper, which is more of a qualm with macro-level modeling in general, is that it's highly sensitive to assumptions and cost projections. And a big assumption in this paper is the cost of batteries.
 
 The authors assumed long duration energy storage for 24 hours at $89-357/kWh, or 100 hours at $73.5-294/kWh. Given these inputs, they find that long duration storage doesn't play a big role in the energy mix, and has a negligible effect on total costs.
 
 Granted, this was published in 2018. Three years later, Li-ion batteries are projected to reach $100/kWh or less, and the ARPA-E DAYS program, which funds R&D in long duration storage, is targeting costs far below that. If cheaper long duration storage were included in the model, I'm sure the optimal energy mix would change.
 
-#### What's the right narrative here?
+#### **What's the right narrative here?**
 The authors state that because firm low-carbon resources would reduce the cost of decarbonization, we should consider them in our future energy mix, and also increase R&D and policy support. I'm all for this.
 
 The challenge is that the majority of the firm low-carbon resources considered in the paper – specifically geothermal and various types of CCS – do not exist at commercial scale yet. The authors assume that we will get there someday, and I really hope we do, but it's not guaranteed. 
