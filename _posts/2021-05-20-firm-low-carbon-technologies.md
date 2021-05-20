@@ -17,7 +17,7 @@ I read a great 2018 paper, [The Role of Firm Low-Carbon Electricity Resources in
 	- The way they modeled hypothetical long duration energy storage, it didn't play a big role in the energy mix.
 
 <p align="center">
-  <img src="/img/food_waste_epa_recovery_hierarchy.jpg" width="450">
+  <img src="/img/firm_low_carbon_resources.jpg" width="450">
 </p>
  
 ### Thoughts and comments
