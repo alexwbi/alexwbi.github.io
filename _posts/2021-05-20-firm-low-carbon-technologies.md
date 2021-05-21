@@ -23,7 +23,7 @@ I read a great 2018 paper, [The Role of Firm Low-Carbon Electricity Resources in
 ### Thoughts and comments
 It's a breath of fresh air to read a nuanced and balanced take on this, rather than anti-nuclear sentiments or arguments about why we should use 100% wind and solar.
 
-That said, I can't help but feel like a lot of the findings were quite intuitive. The more we constrain out options, the more expensive things get. The stricter we set our emissions limits, the more expensive things get. The fact that the results are robust to varying levels of transmission is helpful though.
+That said, I can't help but feel like a lot of the findings were quite intuitive. The more we constrain our options, the more expensive things get. The stricter we set our emissions limits, the more expensive things get. The fact that the results are robust to varying levels of transmission is helpful though.
 
 #### **The limitation of cost projections**
 My main qualm with this paper, which is more of a qualm with macro-level modeling in general, is that it's highly sensitive to assumptions and cost projections. And a big assumption in this paper is the cost of batteries.
