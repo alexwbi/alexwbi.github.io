@@ -13,6 +13,6 @@ How do you replace all of these ICE cars? EVs are taking off, but range and char
 
 How do you provide a light and powerful enough battery to move a freight truck over long distances? Or build and maintain our extensive highway infrastructure with low-emissions concrete?
 
-The more I dig into something, the more I realize that there are endless layers of complexity to *everything* around us. It's given me a deep appreciation that modern society works at all. There's just so much _stuff_ everywhere, and a lot of times it feels like everything is duct taped together.
+The more I dig into something, the more I realize that there are endless layers of complexity to *everything* around us. It's given me a deep appreciation that modern society is able to function properly at all. There's just so much _stuff_ everywhere, and a lot of times it feels like everything is duct taped together.
 
 There's so much complexity to the world, which also means there are opportunities everywhere. To think there's nothing you can do to change the world, or no good ideas left to work on, is a gross lack of imagination and creativity. I believe there are opportunities for billion dollar companies everywhere around us waiting to be uncovered.
