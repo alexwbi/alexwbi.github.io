@@ -11,11 +11,14 @@ Looking back on the past few weeks in particular, I've already made an impressiv
 
 ### 2022/03/11
 ^side note, this is the _only_ reasonable way to write out a date because sorting the string will also sort the date. Change my mind.
+
 - Need more targeted market segmentation. If customers are saying different and conflicting things, it's almost certainly because your market segment is too broad. I literally read this in [The Mom Test](http://momtestbook.com), felt like it was important and wrote it down, and promptly made the mistake anyways. (note: the book is endorsed by [Shreyas](https://twitter.com/shreyas/status/1501708905881104388)!
   - In my space, this entails: utility-scale vs distributed generation developers, ISO vs non-ISO regions, big vs small developers, and a few other ways to split the market. This is already 2^3 = 8 market segments, with the possibility of many more if you want to go more granular.
 
+
 - Need more depth first search. Hunting for startup ideas is a delicate balance between DFS and BFS. I think the way to balance the two is to follow the traction. It's like job searching -- you always want to be applying and networking for new roles, but if you have an on-site the next day, no shit you should prioritize that over new outbound.
   - I've been spending too much time on BFS. What I need the most right now is targeted DFS towards the most promising hypothesis (which, if we're being honest here, is impossible to tell if it's actually promising or not. That's why you need DFS and ask hard questions to verify the hypothesis)
+
 
 - Keep in mind that before product-market fit (BPMF) is being in the sucks. Unfortunately 100% consistent with my experience, but the name is kind of funny ha. "The sucks". Close siblings with my old friend The Dip.
 
