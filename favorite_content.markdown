@@ -14,6 +14,7 @@ Business
 Startups
 - Where Good Ideas Come From
 - [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) by Paul Graham
+- [Schlep Blindness](http://paulgraham.com/schlep.html) by Paul Graham
 - [Speed as a Habit](https://review.firstround.com/speed-as-a-habit) - delightful read for an aspiring entrepreneur and semi-workaholic
 - [What Seven Years at Airbnb Taught Me About Building a Business](https://marker.medium.com/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56) - a goldmine of wisdom from one of my favorite product thinkers (shoutout to [Shreyas](https://twitter.com/shreyas) as well)
 - [The Idea Maze](https://cdixon.org/2013/08/04/the-idea-maze) by Chris Dixon
